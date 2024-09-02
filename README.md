@@ -1,6 +1,9 @@
 # Pokemon
 Pokemon Coding Challenge for Avonic
 
+# Execution instructions
+Run main.py
+
 # Description.
 The assignment is to make a small console-based Pokemon Game. The goal of the game is to
 allow a player to select a Pokemon from a range of choices and to initiate a fighting sequence with
